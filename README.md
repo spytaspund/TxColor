@@ -5,6 +5,10 @@ TxColor gives you the ability to format text with colors right in it! You can al
 
 ![WindowsTerminal_Au4mtOyPV1](https://user-images.githubusercontent.com/109822062/187227483-02903a01-460b-46b0-b451-4def93f5632b.png)
 
+IMPORTANT! YOU MUST WRITE TAGS IN <>!
+
+=======================================================================
+
 If you wish to add a txt file, simply do this:
 
 TxColorLib.find(open("txt.txt", "r").read())
