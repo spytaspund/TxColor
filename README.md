@@ -3,21 +3,7 @@ TxColor is the python library that provides text color formating.
 
 TxColor gives you the ability to format text with colors right in it! You can also provide a string!
 
-Color tags:
-
-r - red
-
-g - green
-
-B - blue
-
-y - yellow
-
-p - purple
-
-c - cyan
-
-w - white
+![WindowsTerminal_Au4mtOyPV1](https://user-images.githubusercontent.com/109822062/187227483-02903a01-460b-46b0-b451-4def93f5632b.png)
 
 If you wish to add a txt file, simply do this:
 
@@ -32,6 +18,7 @@ Note:
 Color tags may update in future! (Because we want to add bg support)
 
 Also special thanks to colorama!
+
 
 
 
