@@ -15,6 +15,10 @@ TxColorLib.find(open("txt.txt", "r").read())
 or
 TxColorLib.find(open("txt.txt", "r"))
 
+An example for a txt file (and help with bg tags):
+
+![ApplicationFrameHost_1HY8sSB9Ap](https://user-images.githubusercontent.com/109822062/187228992-22e193c4-359c-4bc0-9ae1-e17d811fbb14.png)
+
 At this moment, library contains only ONE (!11!1111) function find()!
 ![pythonw_mQ4GbFgFRB](https://user-images.githubusercontent.com/109822062/187178935-bb0a213d-9e79-4dd7-9a0d-647556f278a7.png)
 
@@ -22,7 +26,3 @@ Note:
 Color tags may update in future! (Because we want to add bg support)
 
 Also special thanks to colorama!
-
-
-
-
