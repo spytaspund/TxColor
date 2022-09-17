@@ -22,7 +22,4 @@ An example for a txt file (and help with bg tags):
 At this moment, library contains only ONE (!11!1111) function find()!
 ![pythonw_mQ4GbFgFRB](https://user-images.githubusercontent.com/109822062/187178935-bb0a213d-9e79-4dd7-9a0d-647556f278a7.png)
 
-Note:
-Color tags may update in future! (Because we want to add bg support)
-
 Also special thanks to colorama!
