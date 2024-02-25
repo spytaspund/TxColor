@@ -1,4 +1,6 @@
 ![txcolorliblogo](https://user-images.githubusercontent.com/109822062/187177997-251e454b-9f1e-4112-9d8f-1a9ec1d1039e.png)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 TxColor is the python library that provides text color formating.
 
 TxColor gives you the ability to format text with colors right in it! You can also provide a string!
